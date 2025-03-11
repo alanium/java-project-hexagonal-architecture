@@ -21,7 +21,7 @@ Utiliza **PostgreSQL** como base de datos y esta estructurado para facilitar la 
 
 ### 1️⃣ Clonar el repositorio
 ```sh
-git clone https://github.com/tu-usuario/mercadolite.git
+git clone https://github.com/alanium/java-project-hexagonal-architecture.git
 cd mercadolite
 ```
 
